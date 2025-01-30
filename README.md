@@ -39,7 +39,7 @@ git clone https://github.com/YathishPoojary98/Amazon-Webscrapping.git
 Navigate into the cloned directory:
 
 ```bash
-cd amazon-phone-scraper
+cd Amazon-Webscrapping
 ```
 
 ### 2️⃣ Run the Script
@@ -47,7 +47,7 @@ cd amazon-phone-scraper
 Execute the following command to start scraping:
 
 ```bash
-python scraper.py
+python new1.py
 ```
 
 ---
